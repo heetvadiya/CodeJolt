@@ -27,7 +27,7 @@ Your code will be saved in your browser's local storage, so you can return to yo
 
 ## Credits
 
-This project was created by [Your Name] as part of [Your Course/Program]. It is based on [Codepen](https://codepen.io/), a popular online code editor and front-end development environment.
+This project was created by [Heet Vadiya]. It is based on [Codepen](https://codepen.io/), a popular online code editor and front-end development environment.
 
 ## License
 
